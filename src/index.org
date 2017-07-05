@@ -1,0 +1,9 @@
+#+TITLE: Index
+#+AUTHOR: Vlead
+
+* Numerics
+** [[./introduction-E99900/introduction-E99900.org][Introduction]]
+** [[./blog-E99900/blog-E99900.org][Blog]]
+** [[./method-E99900/method-E99900.org][Method]]
+** [[./hello-E99900/hello-E99900.org][Hello]]
+** [[./simulation-E99900/simulation-E99900.org][Simulation]]
